@@ -1,0 +1,9 @@
+C:\Users\Kulls\Downloads\Eureka v2.1\Eureka v2.1\Eureka\bin\Debug\TextBasedRPG.exe
+C:\Users\Kulls\Downloads\Eureka v2.1\Eureka v2.1\Eureka\bin\Debug\TextBasedRPG.pdb
+C:\Users\Kulls\Downloads\Eureka v2.1\Eureka v2.1\Eureka\obj\x86\Debug\TextBasedRPG.csprojResolveAssemblyReference.cache
+C:\Users\Kulls\Downloads\Eureka v2.1\Eureka v2.1\Eureka\obj\x86\Debug\TextBasedRPG.exe
+C:\Users\Kulls\Downloads\Eureka v2.1\Eureka v2.1\Eureka\obj\x86\Debug\TextBasedRPG.pdb
+C:\Users\Kulls\Desktop\Eureka v2.1\TextBasedRPG\obj\x86\Debug\TextBasedRPG.exe
+C:\Users\Kulls\Desktop\Eureka v2.1\TextBasedRPG\obj\x86\Debug\TextBasedRPG.pdb
+C:\Users\Kulls\Desktop\TextBasedRPG\TextBasedRPG\obj\x86\Debug\TextBasedRPG.exe
+C:\Users\Kulls\Desktop\TextBasedRPG\TextBasedRPG\obj\x86\Debug\TextBasedRPG.pdb

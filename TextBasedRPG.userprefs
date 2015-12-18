@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Eureka/Eureka.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Eureka/Program.cs">
+    <Files>
+      <File FileName="Eureka/Program.cs" Line="95" Column="26" />
+      <File FileName="Eureka/Player.cs" Line="22" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
